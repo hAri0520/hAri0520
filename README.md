@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I am a data analyst who paints with data. I use data as my canvas, and various tools as my brushes. I create visual stories that reveal the hidden beauty and meaning of data. I am always curious and eager to learn new skills and techniques that can enhance my data art. I am a data analyst who is also a data artist.
 - 📫 How to reach me you know it.
-        🤔Side note In case if you don't know: harikrenuga@hcl.com
+        🤔Side note In case if you don't know: harikrenuga@hcl.com; www.linkedin.com/in/grhk.
 
 <!---
 hAri0520/hAri0520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
